@@ -57,7 +57,7 @@ Sukurkite reikiamus katalogus "input_videos", "car" "output_videos" ir ikelkite 
   • Į input_videos įkelkite analizuojamus vaizdo įrašus (.mp4 formato).</br>
   • Į car įkelkite pavyzdines automobilio nuotraukas (.jpg formato).</br></br>
 
-3.Sistemos paleidimas</br>
+3. Sistemos paleidimas</br>
 Paleiskite skriptą</br>
 
 
