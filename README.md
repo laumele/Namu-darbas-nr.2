@@ -55,7 +55,6 @@ pip install ultralytics deep_sort_realtime torch torchvision numpy opencv-python
 2. Failų struktūros paruošimas </br>
 Sukurkite reikiamus katalogus "input_videos", "car" "output_videos" ir ikelkite medžiagą apdorojimui:</br>
   • Į input_videos įkelkite analizuojamus vaizdo įrašus (.mp4 formato).</br>
-
   • Į car įkelkite pavyzdines automobilio nuotraukas (.jpg formato).</br></br>
 
 3.Sistemos paleidimas</br>
